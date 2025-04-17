@@ -299,28 +299,15 @@
         width: 75%;
     }
     
-    .col--xs10 {
+    .col-xs-10 {
         width: 83.3333%;
     }
     
-    .col--xs11 {
+    .col-xs-11 {
         width: 91.6666%;
     }
     
-    .col--xs12 {
+    .col-xs-12 {
         width: 100%;
     }
 }
-
-
-
-@media (max-width: 992px) {
-    .col-3 {
-      width: calc(50% - 10px);
-    }
-  }
-  @media (max-width: 600px) {
-    .col-3 {
-      width: 100%;
-    }
-  }
